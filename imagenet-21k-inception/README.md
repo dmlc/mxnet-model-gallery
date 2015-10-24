@@ -11,6 +11,7 @@ Train Top-1 Accuracy over 21,841 classes: 37.19%
 Single image prediction memory requirement: 15MB
 
 ILVRC2012 Validation Performance:
+
 |        | Over 1,000 classes | Over 21,841 classes |
 | ------ | ------------------ | ------------------- |
 | Top-1  | 68.3%              | 41.9%               |
