@@ -11,6 +11,7 @@ Train Top-1 Accuracy over 21,841 classes: 37.19%
 Single image prediction memory requirement: 15MB
 
 ILVRC2012 Validation Performance:
+
 |        | Over 1,000 classes | Over 21,841 classes |
 | ------ | ------------------ | ------------------- |
 | Top-1  | 68.3%              | 41.9%               |
@@ -24,6 +25,8 @@ The compressed file contains:
 - ```Inception-symbol.json```: symbolic network
 - ```Inception-0009.params```: network parameter
 - ```synset.txt```: prediction label/text mapping
+
+There is no mean image file for this model. We use ```mean_r=117```, ```mean_g=117``` and ```mean_b=117``` to noramlize the image.
 
 
 ##### Reference:
