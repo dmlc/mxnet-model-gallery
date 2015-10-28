@@ -5,7 +5,7 @@ Models are hosted by [git lfs](https://git-lfs.github.com/). If you don't have g
 
 This model is a pretrained model on full imagenet dataset [1] with 14,197,087 iamges in 21,841 classes. The model is trained by only random crop and mirror augmentation.
 
-The network is based on Inception-BN network [2], and added more capacity. This network runs roughtly 2 times slower than standard Inception-BN Network.
+The network is based on Inception-BN network [2], and added more capacity. This network runs roughly 2 times slower than standard Inception-BN Network.
 
 We trained this network on a machine with 4 GeForce GTX 980 GPU. Each round costs 23 hours, the released model is the 9 round.
 
