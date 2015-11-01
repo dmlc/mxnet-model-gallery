@@ -1,5 +1,8 @@
 # Inception-BN Network
 
+#### Note
+Models are hosted by [git lfs](https://git-lfs.github.com/). If you don't have git-lfs, please download from Github.com website directly instead of ```git clone``` to avoid possible error.
+
 This model is a pretrained model on ILSVRC2012[1] dataset. The model is trained by only random crop and mirror augmentation.
 
 This model is able to achieve 89.9% Top-5 accuracy on ILSVRC2012-Validation Set.

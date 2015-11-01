@@ -1,8 +1,10 @@
-<img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/mxnet2.png width=135/> Model Gallary
+<img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/mxnet2.png width=135/> Model Gallery
 =====
 
-[![GitHub license](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/imagenet_full/licence-cc0-blue.svg)](./LICENSE)
+[![GitHub license](https://img.shields.io/badge/licence-cc0-blue.svg)](./LICENSE)
 
+#### Note
+Models are hosted by [git lfs](https://git-lfs.github.com/). If you don't have git-lfs, please download from Github.com website directly instead of ```git clone``` to avoid possible error.
 
 [Inception-BN Network](imagenet-1k-inception)
 --------------------
