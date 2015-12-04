@@ -3,7 +3,7 @@
 #### Note
 Models are hosted by [git lfs](https://git-lfs.github.com/). If you don't have git-lfs, please download from Github.com website directly instead of ```git clone``` to avoid possible error.
 
-This model is a pretrained model on full imagenet dataset [1] with 14,197,087 iamges in 21,841 classes. The model is trained by only random crop and mirror augmentation.
+This model is a pretrained model on full imagenet dataset [1] with 14,197,087 images in 21,841 classes. The model is trained by only random crop and mirror augmentation.
 
 The network is based on Inception-BN network [2], and added more capacity. This network runs roughly 2 times slower than standard Inception-BN Network.
 
