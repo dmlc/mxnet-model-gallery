@@ -1,22 +1,22 @@
 # Inception-BN Network
 
-#### Note
-Models are hosted by [git lfs](https://git-lfs.github.com/). If you don't have git-lfs, please download from Github.com website directly instead of ```git clone``` to avoid possible error.
+The mode is hosted on amazon S3, you can download by
 
-This model is a pretrained model on ILSVRC2012[1] dataset. The model is trained by only random crop and mirror augmentation.
-
-This model is able to achieve 89.9% Top-5 accuracy on ILSVRC2012-Validation Set.
-
-Single image prediction memory requirement: 10MB
-
+```bsah
+https://s3.amazonaws.com/dmlc/model/inception-bn.tar.gz
+```
 
 The compressed file contains:
+
 - ```mean_224.nd```: image mean file
 - ```synset.txt```: prediction label/text mapping
 - ```Inception_BN-symbol.json```: symbolic network
 - ```Inception_BN-0039.params```: network parameter
 
+This model is a pretrained model on ILSVRC2012[1] dataset. The model is trained by only random crop and mirror augmentation.
+It is able to achieve 89.9% Top-5 accuracy on ILSVRC2012-Validation Set.
 
+Single image prediction memory requirement: 10MB
 
 ##### Reference:
 
