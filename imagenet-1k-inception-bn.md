@@ -3,7 +3,7 @@
 The mode is hosted on amazon S3, you can download by
 
 ```bsah
-https://s3.amazonaws.com/dmlc/model/inception-bn.tar.gz
+wget https://s3.amazonaws.com/dmlc/model/inception-bn.tar.gz
 ```
 
 The compressed file contains:
