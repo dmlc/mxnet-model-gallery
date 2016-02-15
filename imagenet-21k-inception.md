@@ -1,8 +1,5 @@
 # Full ImageNet Network
 
-#### Note
-Models are hosted by [git lfs](https://git-lfs.github.com/). If you don't have git-lfs, please download from Github.com website directly instead of ```git clone``` to avoid possible error.
-
 This model is a pretrained model on full imagenet dataset [1] with 14,197,087 images in 21,841 classes. The model is trained by only random crop and mirror augmentation.
 
 The network is based on Inception-BN network [2], and added more capacity. This network runs roughly 2 times slower than standard Inception-BN Network.
@@ -31,6 +28,12 @@ The compressed file contains:
 
 There is no mean image file for this model. We use ```mean_r=117```, ```mean_g=117``` and ```mean_b=117``` to noramlize the image.
 
+
+Models are hosted on http://data.dmlc.ml. You can download it by
+
+```bash
+wget http://data.dmlc.ml/mxnet/models/imagenet/inception-21k.tar.gz
+```
 
 ##### Reference:
 

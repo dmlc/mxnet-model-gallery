@@ -1,9 +1,9 @@
 # Inception-V3 Network
 
-Models are hosted on Amazon S3. You can download it by
+Models are hosted on http://data.dmlc.ml. You can download it by
 
 ```bash
-wget https://s3.amazonaws.com/dmlc/model/inception-v3.tar.gz
+wget http://data.dmlc.ml/mxnet/models/imagenet/inception-v3.tar.gz
 ```
 
 The compressed file contains:
