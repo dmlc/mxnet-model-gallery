@@ -1,4 +1,4 @@
-<img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/mxnet2.png width=135/> Model Gallery
+<img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/mxnet2.png width=135/> *Model Gallery*
 =====
 
 [![GitHub license](https://img.shields.io/badge/licence-cc0-blue.svg)](./LICENSE)
