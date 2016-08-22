@@ -15,4 +15,4 @@ This model is converted from TensorFlow released pretrained model. By single cro
 
 ### [Full ImageNet Network](imagenet-21k-inception.md)
 
-This model is a pretrained model on full imagenet dataset with 14,197,087 iamges in 21,841 classes. The model is trained by only random crop and mirror augmentation. This model is able to achieve 37.19% Top-1 accuracy on training data. This model is about 50% more complex than standard Inception-BN Network
+This model is a pretrained model on full imagenet dataset with 14,197,087 images in 21,841 classes. The model is trained by only random crop and mirror augmentation. This model is able to achieve 37.19% Top-1 accuracy on training data. This model is about 50% more complex than standard Inception-BN Network
