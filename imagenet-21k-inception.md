@@ -19,14 +19,14 @@ ILVRC2012 Validation Performance:
 | Top=20 | 96.0%              | 83.6%               |
 
 
-Note: Directly use 21k prediction may lose diversity in output. You may choose a subset from 21k to make perdiction more reasonable.
+Note: Directly use 21k prediction may lose diversity in output. You may choose a subset from 21k to make prediction more reasonable.
 
 The compressed file contains:
 - ```Inception-symbol.json```: symbolic network
 - ```Inception-0009.params```: network parameter
 - ```synset.txt```: prediction label/text mapping
 
-There is no mean image file for this model. We use ```mean_r=117```, ```mean_g=117``` and ```mean_b=117``` to noramlize the image.
+There is no mean image file for this model. We use ```mean_r=117```, ```mean_g=117``` and ```mean_b=117``` to normalize the image.
 
 
 Models are hosted on http://data.dmlc.ml. You can download it by
