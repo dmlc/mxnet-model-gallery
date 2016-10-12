@@ -2,19 +2,17 @@
 
 The mode is hosted on http://data.dmlc.ml, you can download by
 
-```bsah
+```bash
 wget http://data.dmlc.ml/mxnet/models/imagenet/inception-bn.tar.gz
 ```
 
 The compressed file contains:
 
-- ```mean_224.nd```: image mean file
 - ```synset.txt```: prediction label/text mapping
-- ```Inception_BN-symbol.json```: symbolic network
-- ```Inception_BN-0039.params```: network parameter
+- ```Inception-BN-symbol.json```: symbolic network
+- ```Inception-BN-0126.params```: network parameter
 
-This model is a pretrained model on ILSVRC2012[1] dataset. The model is trained by only random crop and mirror augmentation.
-It is able to achieve 89.9% Top-5 accuracy on ILSVRC2012-Validation Set.
+This model is a pretrained model on ILSVRC2012[1] dataset. It is able to achieve 72.5% Top-1 Accuracy and 90.8% Top-5 accuracy on ILSVRC2012-Validation Set.
 
 Single image prediction memory requirement: 10MB
 
