@@ -7,7 +7,7 @@ All models are hosted at http://data.dmlc.ml/mxnet/models/ and licensed udner CC
 
 ### [Inception-BN Network](imagenet-1k-inception-bn.md)
 
-This model is a pretrained model on ILSVRC2012 dataset. The model is trained by only random crop and mirror augmentation. This model is able to achieve 89.9% Top-5 accuracy on ILSVRC2012-Validation Set.
+This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 72.5% Top-1 Accuracy and 90.8% Top-5 accuracy on ILSVRC2012-Validation Set.
 
 ### [Inception-V3 Network](imagenet-1k-inception-v3.md)
 
