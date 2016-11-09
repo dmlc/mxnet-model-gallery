@@ -3,7 +3,27 @@
 
 [![GitHub license](https://img.shields.io/badge/licence-cc0-blue.svg)](./LICENSE)
 
-All models are hosted at http://data.dmlc.ml/mxnet/models/ and licensed udner CC0.
+All models are hosted at http://data.dmlc.ml/mxnet/models/ and licensed under CC0.
+
+### [AlexNet](imagenet-1k-alexnet.md)
+
+This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 54.5% Top-1 Accuracy and 78.3% Top-5 accuracy on ILSVRC2012-Validation Set.
+
+### [NIN](imagenet-1k-nin.md)
+
+This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 58.8% Top-1 Accuracy and 81.3% Top-5 accuracy on ILSVRC2012-Validation Set.
+
+### [SqueezeNet_v1.0](imagenet-1k-squeezenet.md)
+
+This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 55.4% Top-1 Accuracy and 78.8% Top-5 accuracy on ILSVRC2012-Validation Set.
+
+### [VGG16](imagenet-1k-vgg16.md)
+
+This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 71.0% Top-1 Accuracy and 89.8% Top-5 accuracy on ILSVRC2012-Validation Set.
+
+### [VGG19](imagenet-1k-vgg19.md)
+
+This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 71.0% Top-1 Accuracy and 89.8% Top-5 accuracy on ILSVRC2012-Validation Set.
 
 ### [Inception-BN Network](imagenet-1k-inception-bn.md)
 
