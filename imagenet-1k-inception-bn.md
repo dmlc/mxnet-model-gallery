@@ -1,6 +1,6 @@
 # Inception-BN Network
 
-The mode is hosted on http://data.dmlc.ml, you can download by
+The model is hosted on http://data.dmlc.ml, you can download by
 
 ```bash
 wget http://data.dmlc.ml/mxnet/models/imagenet/inception-bn.tar.gz

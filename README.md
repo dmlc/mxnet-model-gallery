@@ -17,7 +17,7 @@ This model is a pretrained model on ILSVRC2012 dataset. This model is able to ac
 
 This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 55.4% Top-1 Accuracy and 78.8% Top-5 accuracy on ILSVRC2012-Validation Set.
 
-### [VGG16](imagenet-1k-vgg16.md)
+### [VGG16](imagenet-1k-vgg.md)
 
 This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 71.0% Top-1 Accuracy and 89.8% Top-5 accuracy on ILSVRC2012-Validation Set.
 
