@@ -1,4 +1,4 @@
-# AlexNet(CaffeNet) Network
+# CaffeNet Network
 
 The model is hosted on http://data.dmlc.ml, you can download by
 

@@ -3,7 +3,7 @@
 The mode is hosted on http://data.dmlc.ml, you can download by
 
 ```bash
-wget http://data.dmlc.ml/mxnet/models/imagenet/VGG/vgg16.tar.gz
+wget http://data.dmlc.ml/mxnet/models/imagenet/vgg/vgg16.tar.gz
 ```
 
 The compressed file contains:
@@ -15,7 +15,7 @@ The compressed file contains:
 The mode is hosted on http://data.dmlc.ml, you can download by
 
 ```bash
-wget http://data.dmlc.ml/mxnet/models/imagenet/VGG/vgg19.tar.gz
+wget http://data.dmlc.ml/mxnet/models/imagenet/vgg/vgg19.tar.gz
 ```
 
 The compressed file contains:

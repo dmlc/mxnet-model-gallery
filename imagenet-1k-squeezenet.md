@@ -11,7 +11,7 @@ The compressed file contains:
 - ```squeezenet_v1.0-symbol.json```: symbolic network
 - ```squeezenet_v1.0-0000.params```: network parameter
 
-This model is a pretrained model on ILSVRC2012[1] dataset. It is able to achieve 55.4% Top-1 Accuracy and 78.8% Top-5 accuracy on ILSVRC2012-Validation Set.
+This model is a pretrained model on ILSVRC2012[1] dataset. It is able to achieve 55.4% Top-1 Accuracy and 78.8% Top-5 accuracy on ILSVRC2012-Validation Set. This model is famous for its small size(only 4.8M).
 
 
 ##### Reference:

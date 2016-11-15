@@ -5,7 +5,7 @@
 
 All models are hosted at http://data.dmlc.ml/mxnet/models/ and licensed under CC0.
 
-### [AlexNet](imagenet-1k-caffenet.md)
+### [CaffeNet](imagenet-1k-caffenet.md)
 
 This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 54.5% Top-1 Accuracy and 78.3% Top-5 accuracy on ILSVRC2012-Validation Set.
 
@@ -13,7 +13,7 @@ This model is a pretrained model on ILSVRC2012 dataset. This model is able to ac
 
 This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 58.8% Top-1 Accuracy and 81.3% Top-5 accuracy on ILSVRC2012-Validation Set.
 
-### [SqueezeNet_v1.0](imagenet-1k-squeezenet.md)
+### [SqueezeNet](imagenet-1k-squeezenet.md)
 
 This model is a pretrained model on ILSVRC2012 dataset. This model is able to achieve 55.4% Top-1 Accuracy and 78.8% Top-5 accuracy on ILSVRC2012-Validation Set.
 
