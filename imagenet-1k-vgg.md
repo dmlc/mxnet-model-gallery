@@ -1,9 +1,9 @@
 # VGG16 Network
 
-The mode is hosted on http://data.dmlc.ml, you can download by
+The mode is hosted on http://www.mxnet.io/, you can download by
 
 ```bash
-wget http://data.dmlc.ml/mxnet/models/imagenet/vgg/vgg16.tar.gz
+wget http://www.mxnet.io/models/imagenet/vgg/vgg16.tar.gz
 ```
 
 The compressed file contains:
@@ -12,10 +12,10 @@ The compressed file contains:
 - ```vgg16-symbol.json```: symbolic network
 - ```vgg16-0000.params```: network parameter
 
-The mode is hosted on http://data.dmlc.ml, you can download by
+The mode is hosted on http://www.mxnet.io/, you can download by
 
 ```bash
-wget http://data.dmlc.ml/mxnet/models/imagenet/vgg/vgg19.tar.gz
+wget http://www.mxnet.io/models/imagenet/vgg/vgg19.tar.gz
 ```
 
 The compressed file contains:
