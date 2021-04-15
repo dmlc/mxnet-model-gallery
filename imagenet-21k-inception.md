@@ -29,10 +29,10 @@ The compressed file contains:
 There is no mean image file for this model. We use ```mean_r=117```, ```mean_g=117``` and ```mean_b=117``` to normalize the image.
 
 
-Models are hosted on http://data.dmlc.ml. You can download it by
+Models are hosted on http://data.mxnet.io.s3-website-us-west-1.amazonaws.com/models/imagenet/. You can download it by
 
 ```bash
-wget http://data.dmlc.ml/mxnet/models/imagenet/inception-21k.tar.gz
+wget http://data.mxnet.io.s3-website-us-west-1.amazonaws.com/models/imagenet/inception-21k.tar.gz
 ```
 
 ##### Reference:
